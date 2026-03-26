@@ -1,9 +1,6 @@
-tensorflow
-opencv-python
 streamlit
-torch
-torchvision
 numpy
-Pillow
-scikit-image
-python-dotenv
+pandas
+pillow
+torch==2.0.1
+torchvision==0.15.2
